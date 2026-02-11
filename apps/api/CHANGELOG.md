@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.143.1](https://github.com/tambo-ai/tambo/compare/api-v0.143.0...api-v0.143.1) (2026-02-11)
+
+
+### Bug Fixes
+
+* **api:** persist tool call counts across V1 runs ([#2360](https://github.com/tambo-ai/tambo/issues/2360)) ([9047cba](https://github.com/tambo-ai/tambo/commit/9047cbae0c628601054c2826801816c7fb656084))
+
 ## [0.143.0](https://github.com/tambo-ai/tambo/compare/api-v0.142.0...api-v0.143.0) (2026-02-10)
 
 
